@@ -7,8 +7,7 @@ classDiagram
         +boolean isAvailable()
     }
 
-    class 
-Miembro {
+    class miembro {
         +String name
         +String memberId
         +borrowBook(Book book)
